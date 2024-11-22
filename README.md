@@ -73,24 +73,24 @@ Add these libraries to your project classpath.
 
 UserManagementApp/
 │
-├── src/main/java/com/usermanagement/
-│   ├── dao/                  # Data Access Object (DAO) classes
-│   │   └── UserDAO.java
-│   ├── model/                # POJO classes
-│   │   └── User.java
-│   └── web/                  # Servlet classes
-│       └── UserServlet.java
-│
-├── WebContent/
-│   ├── user-form.jsp         # JSP file for add/edit forms
-│   ├── user-list.jsp         # JSP file for listing users
-│   ├── Error.jsp             # JSP file for error handling
-│   └── WEB-INF/
-│       └── web.xml           # Servlet mappings
-│
-├── lib/                      # Required JARs
-├── README.md                 # Project documentation
-
+├── src/main/java/com/usermanagement/<br>
+│   ├── dao/                  # Data Access Object (DAO) classes<br>
+│   │   └── UserDAO.java<br>
+│   ├── model/                # POJO classes<br>
+│   │   └── User.java<br>
+│   └── web/                  # Servlet classes<br>
+│       └── UserServlet.java<br>
+│<br>
+├── WebContent/<br>
+│   ├── user-form.jsp         # JSP file for add/edit forms<br>
+│   ├── user-list.jsp         # JSP file for listing users<br>
+│   ├── Error.jsp             # JSP file for error handling<br>
+│   └── WEB-INF/<br>
+│       └── web.xml           # Servlet mappings<br>
+│<br>
+├── lib/                      # Required JARs<br>
+├── README.md                 # Project documentation<br>
+<br>
 
 
 ## Technologies Used
